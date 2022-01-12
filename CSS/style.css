@@ -470,7 +470,7 @@ header {
 }
 
 .wave {
-    background-image: url(/images/wave-4.png);
+    background-image: url(../images/wave-4.png);
     background-size: cover;
     height: 110px;
     width: 100%;
