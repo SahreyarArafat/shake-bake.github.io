@@ -194,7 +194,7 @@ footer {
 
 header {
     background-color: black;
-    background-image: url(/images/h1.jpg);
+    background-image: url(../images/h1.jpg);
     background-size: cover;
     height: 920px;
     position: relative;
