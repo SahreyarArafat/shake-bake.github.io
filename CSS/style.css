@@ -617,7 +617,7 @@ header {
 
 .manu_link {
     height: 450px;
-    background-image: url(/images/bg3.jpg);
+    background-image: url(../images/bg3.jpg);
     background-size: cover;
     background-attachment: fixed;
     color: white;
@@ -699,12 +699,6 @@ header {
     line-height: 25px;
 }
 
-
-/* .event_text h1 {
-        margin-bottom: 20px;
-        font-size: 30px;
-    } */
-
 .event_details {
     /* height: 560px; */
     width: 1101px;
@@ -761,7 +755,7 @@ header {
 
 .book-a-table-link {
     height: 350px;
-    background-image: url(/images/bg3.6.jpg);
+    background-image: url(../images/bg3.6.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
