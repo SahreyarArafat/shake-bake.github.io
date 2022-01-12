@@ -260,7 +260,7 @@ section {
     /* -----------about_content_2 start--------- */
     .about_content_2 {
         height: 450px;
-        background-image: url(/images/ds4.jpg);
+        background-image: url(../images/ds4.jpg);
         background-size: cover;
         background-attachment: fixed;
         display: flex;
@@ -397,7 +397,7 @@ section {
     /* -----------about_content_2 start--------- */
     .about_content_2 {
         height: 450px;
-        background-image: url(/images/ds4.jpg);
+        background-image: url(../images/ds4.jpg);
         background-size: cover;
         background-attachment: fixed;
         display: flex;
